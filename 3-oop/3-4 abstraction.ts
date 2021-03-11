@@ -56,6 +56,7 @@
 		clean() {
 			console.log('cleaing the machine ....')
 		}
+        
 	}
 	class AmateurUser {
 		constructor(private machine: CoffeeMaker) {}
